@@ -1,0 +1,12 @@
+.container {
+    margin: 10% auto;
+    border:5px solid black;
+    width: 30%;
+    border-radius: 5%;
+
+}
+
+#heading-low {
+    color:red;
+    width: 30%;
+}
